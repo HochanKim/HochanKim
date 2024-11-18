@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 2024년 6월부터 시작된 저의 개발자로서 역량을 키우기 위한 노력과 공부, 그리고 프로젝트들을 이곳에 담았습니다.
 
 ### 1 Team 프로젝트 (SpringBoot로 구현)
-Link (https://github.com/cleanMirror/Hanju_Project.git)
+📫 Link (https://github.com/cleanMirror/Hanju_Project.git)
 
 ### 2 개인 프로젝트 (JSP와 SpringBoot로 각각 구현)
+📫
