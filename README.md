@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-2024년 6월부터 시작된 저의 개발자로서 역량을 키우기 위한 노력과 공부, 그리고 프로젝트들을 이곳에 담았습니다.
+최고의 개발자로서 역량을 키우기 위한 노력과 공부, 그리고 직접 수행한 프로젝트들을 이곳에 담았습니다.
 
 ### 1 Team 프로젝트 (SpringBoot로 구현)
 📫 Link (https://github.com/cleanMirror/Hanju_Project.git)
