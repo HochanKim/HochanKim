@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 ### 2 개인 프로젝트 (JSP와 SpringBoot로 각각 구현)
 📫 Link (https://github.com/HochanKim/jsp/tree/main/jspEx1/src/main/webapp/project)
 
-📫 Link 
+📫 Link (https://github.com/HochanKim/selfProject) (진행중)
