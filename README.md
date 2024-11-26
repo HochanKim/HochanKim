@@ -24,9 +24,17 @@ Here are some ideas to get you started:
 
 👉 주요 사용 언어 
 
-1. <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 
-2. <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+
+<img src="https://img.shields.io/badge/java-23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+
+<img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white">
+
+<img src="https://img.shields.io/badge/vuejs-2335495e?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 
 ### 2 개인 프로젝트 (JSP와 SpringBoot로 각각 구현)
 📫 Link (https://github.com/HochanKim/jsp/tree/main/jspEx1/src/main/webapp/project)
