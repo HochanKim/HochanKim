@@ -19,9 +19,14 @@ Here are some ideas to get you started:
 
 ### 1 Team 프로젝트 (SpringBoot로 구현)
 📫 Link (https://github.com/cleanMirror/Hanju_Project.git)
-👉 기간 : 2024.09.10 ~ 2024.10.04 <br>
-👉 주요 사용 언어 <br>
-1.<img src="https://img.shields.io/badge/spring-#6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+
+👉 기간 : 2024.09.10 ~ 2024.10.04 
+
+👉 주요 사용 언어 
+
+1. <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+
+2. <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 
 ### 2 개인 프로젝트 (JSP와 SpringBoot로 각각 구현)
 📫 Link (https://github.com/HochanKim/jsp/tree/main/jspEx1/src/main/webapp/project)
