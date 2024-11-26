@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### 1 Team 프로젝트 (SpringBoot로 구현)
 📫 Link (https://github.com/cleanMirror/Hanju_Project.git)
-👉 기간 : 2024.09.10 ~ 2024.10.04
+👉 기간 : 2024.09.10 ~ 2024.10.04 #
 👉 주요 사용 언어
 1.<img src="http://www.w3.org/2000/svg" />
 
