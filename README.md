@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white">
 
-<img src="https://img.shields.io/badge/vuejs-2335495e?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
+<img src="https://img.shields.io/badge/vuejs-333333?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 
