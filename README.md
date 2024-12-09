@@ -87,6 +87,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/vue.js-30F200?style=for-the-badge&logo=vue.jsl&logoColor=white">
 
 ### 프로젝트 링크
-<https://github.com/HochanKim/selfProject>
 
-📫 Link (https://github.com/HochanKim/selfProject) (진행중)
+📫 Link (https://github.com/HochanKim/selfProject) 
