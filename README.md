@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 
 최고의 개발자로서 나아가기 위한 많은 노력과 공부, 그리고 직접 수행한 프로젝트들을 이곳에 담았습니다.
 
-# 1 Team 프로젝트 (SpringBoot로 구현)
+# 1 Team 프로젝트
+## 가상의 전통주 판매 회사의 웹 페이지 구축 (Spring Boot, Vue.JS, Oracle 데이터베이스 활용)
+## 📫 Link (https://github.com/cleanMirror/Hanju_Project.git)
 
 👯 국내에서 생산되는 전통주들을 판매하고 대형마트와 같은 와인 판매처를 API로 활용하여 '와인 픽업'을 중개하는 서비스를 목적으로 만든 '한주' 페이지 구축
 
@@ -33,8 +35,6 @@ Here are some ideas to get you started:
 👯 MVC 패턴을 활용
 
 👯 코드리스트를 구현하여 조건에 맞은 화면 호출
-
-📫 Link (https://github.com/cleanMirror/Hanju_Project.git)
 
 👉 기간 : 2024.09.10 ~ 2024.10.04 
 
@@ -56,8 +56,11 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/css3-1E90FF?style=for-the-badge&logo=css3&logoColor=white">
 
-# 2 개인 프로젝트 (JSP와 SpringBoot로 각각 구현)
-## 영상컨텐츠 제작회사의 홈페이지 구성하기 (Spring Boot, Maven)
+# 2 개인 프로젝트 (1)
+## 영상컨텐츠 제작회사의 홈페이지 구성하기 (JSP, Spring Boot, Maven)
+### 📫 Link (https://github.com/HochanKim/selfProject) 
+
+
 
 ### <img src="https://github.com/user-attachments/assets/a5e2f4b7-b8ff-4a10-8dbf-16bf16e267fd" width="30" height="30" /> 어떻게 했는가?
 
@@ -66,13 +69,9 @@ Here are some ideas to get you started:
 +  학원에서 배우지 않은 이메일 인증코드 문자발송 기능을 추가로 적용
 
 
-
-
 ### <img src="https://github.com/user-attachments/assets/a5e2f4b7-b8ff-4a10-8dbf-16bf16e267fd" width="30" height="30" /> 개발 기간
 
 +  2024.11.09 ~ 2024.00.00
-
-
 
 
 ### <img src="https://github.com/user-attachments/assets/a5e2f4b7-b8ff-4a10-8dbf-16bf16e267fd" width="30" height="30" /> 사용된 언어
@@ -86,6 +85,4 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/vue.js-30F200?style=for-the-badge&logo=vue.jsl&logoColor=white">
 
-### 프로젝트 링크
 
-📫 Link (https://github.com/HochanKim/selfProject) 
