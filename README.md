@@ -1,4 +1,4 @@
-## 미래를 만들 개발자, '김호찬'의 깃허브 👋
+# 미래를 만들 개발자, '김호찬'의 깃허브 👋
 
 <!--
 **HochanKim/HochanKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📜 인사말
+# 📜 인사말
 
 안녕하세요! 항상 새로운 것을 추구하며 배우고자 노력하는 김호찬입니다.
 
@@ -24,8 +24,7 @@ Here are some ideas to get you started:
 
 최고의 개발자로서 나아가기 위한 많은 노력과 공부, 그리고 직접 수행한 프로젝트들을 이곳에 담았습니다.
 
-
-### 1 Team 프로젝트 (SpringBoot로 구현)
+# 1 Team 프로젝트 (SpringBoot로 구현)
 
 👯 국내에서 생산되는 전통주들을 판매하고 대형마트와 같은 와인 판매처를 API로 활용하여 '와인 픽업'을 중개하는 서비스를 목적으로 만든 '한주' 페이지 구축
 
@@ -57,7 +56,37 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/css3-1E90FF?style=for-the-badge&logo=css3&logoColor=white">
 
-### 2 개인 프로젝트 (JSP와 SpringBoot로 각각 구현)
-📫 Link (https://github.com/HochanKim/jsp/tree/main/jspEx1/src/main/webapp/project)
+# 2 개인 프로젝트 (JSP와 SpringBoot로 각각 구현)
+## 영상컨텐츠 제작회사의 홈페이지 구성하기 (Spring Boot, Maven)
+
+### <img src="https://github.com/user-attachments/assets/a5e2f4b7-b8ff-4a10-8dbf-16bf16e267fd" width="30" height="30" /> 어떻게 했는가?
+
++  Spring 프레임워크에서 MVC 패턴을 활용하여 영상컨텐츠 회사의 웹 화면 구성, MySQL에 저장한 데이터들을 이용하여 CRUD를 적용
+
++  학원에서 배우지 않은 이메일 인증코드 문자발송 기능을 추가로 적용
+
+
+
+
+### <img src="https://github.com/user-attachments/assets/a5e2f4b7-b8ff-4a10-8dbf-16bf16e267fd" width="30" height="30" /> 개발 기간
+
++  2024.11.09 ~ 2024.00.00
+
+
+
+
+### <img src="https://github.com/user-attachments/assets/a5e2f4b7-b8ff-4a10-8dbf-16bf16e267fd" width="30" height="30" /> 사용된 언어
+<img src="https://img.shields.io/badge/JSP-3178C6">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+
+<img src="https://img.shields.io/badge/vue.js-30F200?style=for-the-badge&logo=vue.jsl&logoColor=white">
+
+### 프로젝트 링크
+<https://github.com/HochanKim/selfProject>
 
 📫 Link (https://github.com/HochanKim/selfProject) (진행중)
