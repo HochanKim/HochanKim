@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 
 ### <img src="https://github.com/user-attachments/assets/a5e2f4b7-b8ff-4a10-8dbf-16bf16e267fd" width="30" height="30" /> 개발 기간
 
-+  2024.11.09 ~ 2024.00.00
++  2024.11.09 ~ 2024.12.17
 
 
 ### <img src="https://github.com/user-attachments/assets/a5e2f4b7-b8ff-4a10-8dbf-16bf16e267fd" width="30" height="30" /> 사용된 언어
